@@ -31,25 +31,6 @@ CLI Command:
 
 ## Project Structure
 
-project_name/
-│
-├── apps/
-│ ├── templates/
-│ │ ├── base.html
-│ │ └── home.html
-│ ├── static/
-│ ├── __init__.py
-│ ├── models.py
-│ ├── forms.py
-│ ├── routes.py
-│ └── auth_routes.py
-│
-├── run.py
-├── requirements.txt
-├── readme.md
-└── .env
-
-
 The project structure consists of the following components:
 
 - `project_name/`: The root directory of the Flask project.
