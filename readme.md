@@ -19,6 +19,10 @@ CLI Command:
 
 ## Installation
 
+```python
+pip install flask-project-creator
+```
+
 ### Prerequisites
 - Python 3.x installed on your system
 - pip package manager
