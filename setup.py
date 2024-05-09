@@ -19,7 +19,7 @@ CLI Command:
 
 setup(
     name='flask_project_creator',
-    version='0.1.1',
+    version='0.1.2',
     author='Omkar Subhash Parab',
     author_email='omkar211196@gmail.com',
     description=SHORT_DESCRIPTION,
@@ -33,5 +33,6 @@ setup(
     },
     install_requires=[
         'click',
+        'flask',
     ],
 )
