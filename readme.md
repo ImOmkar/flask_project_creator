@@ -1,9 +1,7 @@
 # Flask Project Creator
 
-## Short Description
 Flask Project Creator: A CLI tool for quickly setting up Flask web applications.
 
-## Long Description
 Flask Project Creator is a command-line interface (CLI) tool designed to expedite the creation of Flask web applications. With just a single command, this tool automates the generation of a Flask project directory structure, including essential files and folders such as `run.py`, `__init__.py`, `templates`, and `static`. Additionally, it provides basic templates (`base.html` and `home.html`) along with example route definitions to jumpstart your development process.
 
 This tool leverages Click, a Python package for creating command-line interfaces, to offer a user-friendly experience with customizable options. Whether you're starting a new web project, prototyping ideas, or simply looking to streamline your Flask development workflow, Flask Project Creator simplifies the initial setup process, allowing you to focus on building your application logic without the hassle of manual configuration.
@@ -53,5 +51,4 @@ The project structure consists of the following components:
 - `readme.md`: Project documentation file (this file).
 - `.env`: File for storing environment variables.
 
-Feel free to customize the project structure further to match your specific project requirements. Once you've made the necessary adjustments, save the changes to the `README.md` file.
 
